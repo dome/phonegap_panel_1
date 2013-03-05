@@ -1,3 +1,6 @@
+* {
+   -webkit-user-select: none;  /* prevent copy paste for all elements */
+} 
 /* JQM Demos CSS */
 .jqm-demos strong { font-weight: bold; }
 .jqm-demos img { max-width: 100%; }
